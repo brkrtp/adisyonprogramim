@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adisyon-programim.com/sitemap.xml
